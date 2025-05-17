@@ -1,2 +1,1 @@
-# erlmongo
-MongoDB bugbounty POC by @nvk0x
+# MongoDB bugbounty POC by @nvk0x
